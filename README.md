@@ -49,7 +49,7 @@ grabbyram/
 ├── .env  # Store your API credentials here
 ├── .gitignore
 ├── LICENSE
-├── CODEOWNERS.md
+├── CODEOWNERS
 └── requirements.txt
 ```
 
