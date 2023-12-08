@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ghttps://i.ibb.co/CKWk4wD/1701755216253.jpg" alt="GrabbyGram Logo">
+  <img src="https://i.ibb.co/CKWk4wD/1701755216253.jpg" alt="GrabbyGram Logo">
 </p>
 
 <h1 align="center">GrabbyGram</h1>
