@@ -15,15 +15,13 @@
         <a href="https://github.com/kavidu-dilhara/GrabbyGram/network">
             <img src="https://img.shields.io/github/forks/kavidu-dilhara/GrabbyGram?style=social" alt="GitHub forks">
         </a>
-        <a href="https://github.com/kavidu-dilhara/GrabbyGram/blob/main/LICENSE">
-            <img src="https://img.shields.io/github/license/kavidu-dilhara/GrabbyGram?style=social" alt="GitHub license">
-        </a>
+        
   <a href="https://github.com/kavidu-dilhara/GrabbyGram/issues">
     <img src="https://img.shields.io/github/issues/kavidu-dilhara/GrabbyGram" alt="Issues">
   </a>
-  <a href="https://pypi.org/project/GrabbyGram">
-    <img src="https://img.shields.io/pypi/dm/GrabbyGram" alt="PyPI Downloads">
-  </a>
+<img alt="PyPI - Version" src="https://img.shields.io/pypi/v/grabbygram">
+<img alt="PyPI - Format" src="https://img.shields.io/pypi/format/grabbygram">
+
 </p>
 
 
