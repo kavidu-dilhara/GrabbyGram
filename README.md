@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/CKWk4wD/1701755216253.jpg" alt="GrabbyGram Logo">
+  <img src="https://i.ibb.co/CBMgMyh/1000029282-01.jpg" alt="GrabbyGram Logo">
 </p>
 
 <h1 align="center">GrabbyGram</h1>
@@ -49,7 +49,7 @@ grabbyram/
 ├── .env  # Store your API credentials here
 ├── .gitignore
 ├── LICENSE
-├── CONTRIBUTING.md
+├── CODEOWNERS.md
 └── requirements.txt
 ```
 

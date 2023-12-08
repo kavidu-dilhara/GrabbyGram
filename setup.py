@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='grabbygram',
-    version='0.0.1',
+    version='0.0.3',
     author='Kavidu Dilhara',
     author_email='contact@kavidudilhara.eu.org',
     description='A Python package for downloading media from Telegram',
@@ -24,19 +24,13 @@ setup(
             'grabbygram = grabbygram.grabbygram:main'
         ]
     },
-    classifiers=[
-        'Development Status :: 4 - Beta',
-        'Intended Audience :: Developers',
+classifiers=[
+        'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: Python 3.12.0',
-        'Operating System :: Microsoft :: Windows',
-        'Operating System :: MacOS :: MacOS X',
-'       Operating System :: POSIX :: Linux',
-        'Operating System :: POSIX :: Linux :: Ubuntu',
-        'Operating System :: POSIX :: Linux :: Fedora',
-        'Operating System :: POSIX :: Linux :: CentOS',
+        'Operating System :: OS Independent',
     ],
-    keywords='telegram downloader media python scrapping bulk bulkdownload',
+    python_requires='>=3.6',
+    keywords='Python Telegram  downloader  script  bot  API requests URL  media  chat  messages download  automation',
     project_urls={
         'Bug Reports': 'https://github.com/kavidu-dilhara/GrabbyGram/issues',
         'Source': 'https://github.com/kavidu-dilhara/GrabbyGram',
