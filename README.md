@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/CBMgMyh/1000029282-01.jpg" alt="GrabbyGram Logo">
+  <img src="ghttps://i.ibb.co/CKWk4wD/1701755216253.jpg" alt="GrabbyGram Logo">
 </p>
 
 <h1 align="center">GrabbyGram</h1>
@@ -64,7 +64,7 @@ grabbyram/
 
 Learn how to use GrabbyGram with our step-by-step tutorial video.
 
-[![GrabbyGram Tutorial](https://i.ibb.co/j65BFqp/image.jpg)](#)
+[![GrabbyGram Tutorial](https://i.ibb.co/CBMgMyh/1000029282-01.jpg)](#)
 
 ## Features
 
